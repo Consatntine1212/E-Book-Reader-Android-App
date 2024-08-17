@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="open_button">OPEN</string>
+    <string name="hint_email">Email…</string>
+    <string name="hint_password">Password…</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="other_text1">Nead new Acount ?</string>
+    <string name="other_text2">Or Login with Google Acount</string>
+    <string name="other_text3">Already have an acount Login?</string>
+    <string name="register">Register</string>
+    <string name="read">Read</string>
+</resources>
